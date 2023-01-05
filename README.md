@@ -1,6 +1,6 @@
-#Battle analyzer for Clash Royale (WIP)
+# Battle analyzer for Clash Royale (WIP)
 
-##TO-DO
+## TO-DO
 
 - [ ] Сделать wrapper для CR API
 - [ ] Разобраться в моделях для получения данных о матче
